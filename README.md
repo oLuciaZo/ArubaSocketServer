@@ -1,11 +1,11 @@
 # ArubaSocketServer
 Webserver Open the Socket to get Data From Aruba BLE
 
-for AOS8/n
-Install NodeJS in your machine/n
-#cd ArubaSocketServer/aos8/n
-#npm init/n
-#node server.js/n
+for AOS8<br>
+Install NodeJS in your machine<br>
+#cd ArubaSocketServer/aos8<br>
+#npm init<br>
+#node server.js<br>
 
 
 ![image](https://user-images.githubusercontent.com/18340935/179886408-9a740ede-6ba0-4ca3-8cbd-88ffe6bbe933.png)
